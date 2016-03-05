@@ -8,7 +8,7 @@
 // @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
 
-    var login = "[your login here]";
+	var login = "[your login here]";
 	var password = "[your password here]";
 
 $(document).ready(function() {
