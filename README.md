@@ -1,2 +1,2 @@
 # HP_autologin
-Logs you automatically on HyperPlanning
+This userscript logs you automatically on HyperPlanning
